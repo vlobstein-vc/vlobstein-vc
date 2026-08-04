@@ -8,4 +8,4 @@ Security researcher at [@vulncheck](https://github.com/vulncheck), "officially" 
 - [Monsta FTP SSRF IPv6 Blocklist Bypass](https://www.vulncheck.com/blog/monsta-ftp-ssrf-ipv6-blocklist-bypass)
 - [Aimy Captcha-Less Form Guard Object Injection](https://www.vulncheck.com/blog/aimy-captcha-less-form-guard-object-injection)
 
-Oh, and I'm French 🇫🇷
+Oh, and I'm French 🇫🇷 - I don't care about rules and standards, I break them for a living
