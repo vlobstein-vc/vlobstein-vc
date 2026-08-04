@@ -1,6 +1,6 @@
 # Hi, I'm Valentin Lobstein
 
-Security researcher at [@vulncheck](https://github.com/vulncheck), "officially" called Member of Technical Staff. This is my work account - you can find my personal projects at [@Chocapikk](https://github.com/Chocapikk).
+Security researcher at [@vulncheck](https://github.com/vulncheck), "officially" called Member of Technical Staff. I write exploits, hunt for 0days, and monitor the vulnerability landscape so you don't have to. This is my work account - you can find my personal projects at [@Chocapikk](https://github.com/Chocapikk).
 
 ## Blog Posts
 
