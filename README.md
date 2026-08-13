@@ -8,6 +8,7 @@ Security researcher at [@vulncheck](https://github.com/vulncheck), "officially" 
 - [NVIDIA GEN3C Pickle Deserialization RCE](https://www.vulncheck.com/blog/nvidia-gen3c-unauth-pickle-rce)
 - [Monsta FTP SSRF IPv6 Blocklist Bypass](https://www.vulncheck.com/blog/monsta-ftp-ssrf-ipv6-blocklist-bypass)
 - [Aimy Captcha-Less Form Guard Object Injection](https://www.vulncheck.com/blog/aimy-captcha-less-form-guard-object-injection)
+- [FileRun Thumbnail Command Injection RCE](https://www.vulncheck.com/blog/filerun-thumbnail-command-injection-rce)
 
 Had other options 🕵️, picked the one where my life is still mine.
 
