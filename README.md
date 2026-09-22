@@ -10,6 +10,7 @@ Security researcher at [@vulncheck](https://github.com/vulncheck), "officially" 
 - [Aimy Captcha-Less Form Guard Object Injection](https://www.vulncheck.com/blog/aimy-captcha-less-form-guard-object-injection)
 - [FileRun Thumbnail Command Injection RCE](https://www.vulncheck.com/blog/filerun-thumbnail-command-injection-rce)
 - [FileRun Delegated Admin SQL to Object Injection RCE](https://www.vulncheck.com/blog/filerun-delegated-admin-sql-to-object-injection-rce)
+- [Virtualizor Billing Hook Unauthenticated Root RCE](https://www.vulncheck.com/blog/virtualizor-billing-hook-unauthenticated-root-rce)
 
 Had other options 🕵️, picked the one where my life is still mine.
 
