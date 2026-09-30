@@ -11,6 +11,7 @@ Security researcher at [@vulncheck](https://github.com/vulncheck), "officially" 
 - [FileRun Thumbnail Command Injection RCE](https://www.vulncheck.com/blog/filerun-thumbnail-command-injection-rce)
 - [FileRun Delegated Admin SQL to Object Injection RCE](https://www.vulncheck.com/blog/filerun-delegated-admin-sql-to-object-injection-rce)
 - [Virtualizor Billing Hook Unauthenticated Root RCE](https://www.vulncheck.com/blog/virtualizor-billing-hook-unauthenticated-root-rce)
+- [JCTables Unauthenticated SQL Read/Write to RCE](https://www.vulncheck.com/blog/jctables-unauthenticated-sql-rw-to-rce)
 
 Had other options 🕵️, picked the one where my life is still mine.
 
