@@ -12,6 +12,8 @@ Security researcher at [@vulncheck](https://github.com/vulncheck), "officially" 
 - [FileRun Delegated Admin SQL to Object Injection RCE](https://www.vulncheck.com/blog/filerun-delegated-admin-sql-to-object-injection-rce)
 - [Virtualizor Billing Hook Unauthenticated Root RCE](https://www.vulncheck.com/blog/virtualizor-billing-hook-unauthenticated-root-rce)
 - [JCTables Unauthenticated SQL Read/Write to RCE](https://www.vulncheck.com/blog/jctables-unauthenticated-sql-rw-to-rce)
+- [Xorbits Xoscar Unauthenticated Cloudpickle RCE](https://www.vulncheck.com/blog/xorbits-xoscar-unauth-cloudpickle-rce)
+- [SPIP odt2spip Authenticated Command Injection RCE](https://www.vulncheck.com/blog/spip-odt2spip-authenticated-command-injection-rce)
 
 Had other options 🕵️, picked the one where my life is still mine.
 
