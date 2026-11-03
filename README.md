@@ -14,6 +14,7 @@ Security researcher at [@vulncheck](https://github.com/vulncheck), "officially" 
 - [JCTables Unauthenticated SQL Read/Write to RCE](https://www.vulncheck.com/blog/jctables-unauthenticated-sql-rw-to-rce)
 - [Xorbits Xoscar Unauthenticated Cloudpickle RCE](https://www.vulncheck.com/blog/xorbits-xoscar-unauth-cloudpickle-rce)
 - [SPIP odt2spip Authenticated Command Injection RCE](https://www.vulncheck.com/blog/spip-odt2spip-authenticated-command-injection-rce)
+- [CWP2Shell: The Login Page That Never Says No](https://www.vulncheck.com/blog/control-web-panel-pre-auth-module-dispatch-rce)
 
 Had other options 🕵️, picked the one where my life is still mine.
 
