@@ -16,6 +16,7 @@ Security researcher at [@vulncheck](https://github.com/vulncheck), "officially" 
 - [SPIP odt2spip Authenticated Command Injection RCE](https://www.vulncheck.com/blog/spip-odt2spip-authenticated-command-injection-rce)
 - [CWP2Shell: The Login Page That Never Says No](https://www.vulncheck.com/blog/control-web-panel-pre-auth-module-dispatch-rce)
 - [Code of the Day: Unauthenticated Root in Copeland XWEB EVO](https://www.vulncheck.com/blog/copeland-xweb-evo-unauthenticated-root)
+- [One Recovery Code, Two Shells in Control Web Panel](https://www.vulncheck.com/blog/control-web-panel-recovery-code-rce)
 
 Had other options 🕵️, picked the one where my life is still mine.
 
