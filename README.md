@@ -17,6 +17,7 @@ Security researcher at [@vulncheck](https://github.com/vulncheck), "officially" 
 - [CWP2Shell: The Login Page That Never Says No](https://www.vulncheck.com/blog/control-web-panel-pre-auth-module-dispatch-rce)
 - [Code of the Day: Unauthenticated Root in Copeland XWEB EVO](https://www.vulncheck.com/blog/copeland-xweb-evo-unauthenticated-root)
 - [One Recovery Code, Two Shells in Control Web Panel](https://www.vulncheck.com/blog/control-web-panel-recovery-code-rce)
+- [Easy File Uploader for Joomla: It's Right There in the Name](https://www.vulncheck.com/blog/easy-file-uploader-unauthenticated-upload-to-rce)
 
 Had other options 🕵️, picked the one where my life is still mine.
 
